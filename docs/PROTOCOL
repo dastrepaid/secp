@@ -1,0 +1,3 @@
+[-] secp: simple and efficient chatting protocol
+
+Uses plain-text communication over TCP streams. Every data received/sent over the connection is called a message. Every message has a `type` and optionally a few `arguments`. Because of its simplicity, the message format is identical both for client and server.
