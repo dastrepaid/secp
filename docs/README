@@ -1,5 +1,4 @@
 [-] booting
-
 No need to install anything external. Start the server with `python3 -m server` after configuring it in `server/config.py`.
 
 [-] info
